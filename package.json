@@ -1,0 +1,19 @@
+{
+  "name": "project-restaurant-page",
+  "version": "1.0.0",
+  "description": "This project is part of the The Odin Project's JavaScript Course The goals of this project include: - practice DOM manipulation with js  - explore and utilize npm - explore and utilize webpack the styling will be done using tailwind",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Balazs-topg/Project-Restaurant-Page.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Balazs-topg/Project-Restaurant-Page/issues"
+  },
+  "homepage": "https://github.com/Balazs-topg/Project-Restaurant-Page#readme"
+}
