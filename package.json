@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/Balazs-topg/Project-Restaurant-Page/issues"
   },
-  "homepage": "https://github.com/Balazs-topg/Project-Restaurant-Page#readme"
+  "homepage": "https://github.com/Balazs-topg/Project-Restaurant-Page#readme",
+  "devDependencies": {
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1"
+  }
 }
